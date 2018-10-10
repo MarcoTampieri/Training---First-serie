@@ -1,6 +1,6 @@
 alert("Please enter two decimal numbers.")
 
-let bottone = document.getElementById("valider")
+let bottone = document.getElementById("valider5")
 
 function moltiplica () {
     let primo = Math.floor(document.getElementById("premier_nombre").value);
